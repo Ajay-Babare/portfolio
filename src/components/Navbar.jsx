@@ -9,7 +9,7 @@ const Navbar = () => {
     <nav className='mb-20 flex items-center justify-between py-6'>
 
         <div className='flex flex-shrink-0 items-center'>
-          <a href="/">
+          <a href="/portfolio/">
             <img className="w-12 md:w-16 lg:w-20 h-auto" src={logo} alt="logo" />
           </a>
         </div>
